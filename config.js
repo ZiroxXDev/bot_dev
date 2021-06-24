@@ -1,6 +1,6 @@
 
 const config = {
-    "TOKEN" : "ODU3NTM5ODI3MDE5OTM5ODYw.YNREMw.lgXR8bbvCK6pxDK3U7NuB_QCBx4",
+    "TOKEN" : "ODU3NTM5ODI3MDE5OTM5ODYw.YNREMw.Gunp-2WRAisj-W0OqChArJNuPC0",
     "PREFIX" : "%",
 }
 module.exports = config;
